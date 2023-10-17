@@ -129,7 +129,7 @@ nav {
     float: left;
     display: initial;
     font-size: 32px;
-    color: #05b993;
+    color: #5271FF;
     text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
     padding: 0;
     font-weight: 600;
@@ -175,7 +175,7 @@ nav a {
 .menu li a.active,
 nav a:hover,
 nav ul ul li a:hover {
-    color: #05b993;
+    color: #5271FF;
 }
 
 /* Hide Dropdowns by Default
@@ -476,7 +476,7 @@ li>a:only-child:after {
 }
 
 .search-temps-amklayouts button {
-    background: #05b993;
+    background: #5271FF;
     color: #fff;
     border: none;
     font-size: 14px;
@@ -536,7 +536,7 @@ h3.temps-amkls_pvt-title {
 }
 
 h3.temps-amkls_pvt-title span {
-    color: #05b993;
+    color: #5271FF;
 }
 
 .temps-amkls_banner_txt h5 {
@@ -560,7 +560,7 @@ h3.temps-amkls_pvt-title span {
     -ms-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
-    background-color: #05b993;
+    background-color: #5271FF;
 }
 
 .button-style:hover {
@@ -751,7 +751,7 @@ p.sub-tittle {
 /* footer */
 /* email icon style */
 .icon-effect-temps-amk {
-    background: #05b993;
+    background: #5271FF;
     width: 70px;
     height: 70px;
     -webkit-border-radius: 50%;
@@ -836,7 +836,7 @@ form.subscribe-amk-tems button {
 /* //social icons */
 /* bottom-to-top */
 a.move-top span {
-    color: #05b993;
+    color: #5271FF;
     font-size: 30px;
     padding-bottom: 20px;
 }
